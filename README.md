@@ -1,2 +1,3 @@
 # tpt-dsa
-Test program for teaching
+Test programs for teaching
+Datastructures and algorithms
